@@ -1,0 +1,362 @@
+[
+  {
+    "check": "行数分类可对账",
+    "status": "PASS"
+  },
+  {
+    "check": "订单内客户编号唯一",
+    "status": "PASS"
+  },
+  {
+    "check": "SQL订单数与独立Pandas去重一致",
+    "status": "PASS"
+  },
+  {
+    "check": "SQL订单金额与Pandas逐订单一致",
+    "status": "PASS"
+  },
+  {
+    "check": "金额汇总守恒",
+    "status": "PASS"
+  },
+  {
+    "check": "同期群第0月为100%",
+    "status": "PASS"
+  },
+  {
+    "check": "复购率范围正确",
+    "status": "PASS"
+  },
+  {
+    "check": "尚未观测月份保留NULL",
+    "status": "PASS"
+  },
+  {
+    "check": "12月环比不错误比较部分月份",
+    "status": "PASS"
+  },
+  {
+    "check": "同期群独立核对 2010-12 M0",
+    "status": "PASS"
+  },
+  {
+    "check": "同期群独立核对 2010-12 M1",
+    "status": "PASS"
+  },
+  {
+    "check": "同期群独立核对 2010-12 M2",
+    "status": "PASS"
+  },
+  {
+    "check": "同期群独立核对 2010-12 M3",
+    "status": "PASS"
+  },
+  {
+    "check": "同期群独立核对 2010-12 M4",
+    "status": "PASS"
+  },
+  {
+    "check": "同期群独立核对 2010-12 M5",
+    "status": "PASS"
+  },
+  {
+    "check": "同期群独立核对 2010-12 M6",
+    "status": "PASS"
+  },
+  {
+    "check": "同期群独立核对 2010-12 M7",
+    "status": "PASS"
+  },
+  {
+    "check": "同期群独立核对 2010-12 M8",
+    "status": "PASS"
+  },
+  {
+    "check": "同期群独立核对 2010-12 M9",
+    "status": "PASS"
+  },
+  {
+    "check": "同期群独立核对 2010-12 M10",
+    "status": "PASS"
+  },
+  {
+    "check": "同期群独立核对 2010-12 M11",
+    "status": "PASS"
+  },
+  {
+    "check": "同期群独立核对 2011-01 M0",
+    "status": "PASS"
+  },
+  {
+    "check": "同期群独立核对 2011-01 M1",
+    "status": "PASS"
+  },
+  {
+    "check": "同期群独立核对 2011-01 M2",
+    "status": "PASS"
+  },
+  {
+    "check": "同期群独立核对 2011-01 M3",
+    "status": "PASS"
+  },
+  {
+    "check": "同期群独立核对 2011-01 M4",
+    "status": "PASS"
+  },
+  {
+    "check": "同期群独立核对 2011-01 M5",
+    "status": "PASS"
+  },
+  {
+    "check": "同期群独立核对 2011-01 M6",
+    "status": "PASS"
+  },
+  {
+    "check": "同期群独立核对 2011-01 M7",
+    "status": "PASS"
+  },
+  {
+    "check": "同期群独立核对 2011-01 M8",
+    "status": "PASS"
+  },
+  {
+    "check": "同期群独立核对 2011-01 M9",
+    "status": "PASS"
+  },
+  {
+    "check": "同期群独立核对 2011-01 M10",
+    "status": "PASS"
+  },
+  {
+    "check": "同期群独立核对 2011-02 M0",
+    "status": "PASS"
+  },
+  {
+    "check": "同期群独立核对 2011-02 M1",
+    "status": "PASS"
+  },
+  {
+    "check": "同期群独立核对 2011-02 M2",
+    "status": "PASS"
+  },
+  {
+    "check": "同期群独立核对 2011-02 M3",
+    "status": "PASS"
+  },
+  {
+    "check": "同期群独立核对 2011-02 M4",
+    "status": "PASS"
+  },
+  {
+    "check": "同期群独立核对 2011-02 M5",
+    "status": "PASS"
+  },
+  {
+    "check": "同期群独立核对 2011-02 M6",
+    "status": "PASS"
+  },
+  {
+    "check": "同期群独立核对 2011-02 M7",
+    "status": "PASS"
+  },
+  {
+    "check": "同期群独立核对 2011-02 M8",
+    "status": "PASS"
+  },
+  {
+    "check": "同期群独立核对 2011-02 M9",
+    "status": "PASS"
+  },
+  {
+    "check": "同期群独立核对 2011-03 M0",
+    "status": "PASS"
+  },
+  {
+    "check": "同期群独立核对 2011-03 M1",
+    "status": "PASS"
+  },
+  {
+    "check": "同期群独立核对 2011-03 M2",
+    "status": "PASS"
+  },
+  {
+    "check": "同期群独立核对 2011-03 M3",
+    "status": "PASS"
+  },
+  {
+    "check": "同期群独立核对 2011-03 M4",
+    "status": "PASS"
+  },
+  {
+    "check": "同期群独立核对 2011-03 M5",
+    "status": "PASS"
+  },
+  {
+    "check": "同期群独立核对 2011-03 M6",
+    "status": "PASS"
+  },
+  {
+    "check": "同期群独立核对 2011-03 M7",
+    "status": "PASS"
+  },
+  {
+    "check": "同期群独立核对 2011-03 M8",
+    "status": "PASS"
+  },
+  {
+    "check": "同期群独立核对 2011-04 M0",
+    "status": "PASS"
+  },
+  {
+    "check": "同期群独立核对 2011-04 M1",
+    "status": "PASS"
+  },
+  {
+    "check": "同期群独立核对 2011-04 M2",
+    "status": "PASS"
+  },
+  {
+    "check": "同期群独立核对 2011-04 M3",
+    "status": "PASS"
+  },
+  {
+    "check": "同期群独立核对 2011-04 M4",
+    "status": "PASS"
+  },
+  {
+    "check": "同期群独立核对 2011-04 M5",
+    "status": "PASS"
+  },
+  {
+    "check": "同期群独立核对 2011-04 M6",
+    "status": "PASS"
+  },
+  {
+    "check": "同期群独立核对 2011-04 M7",
+    "status": "PASS"
+  },
+  {
+    "check": "同期群独立核对 2011-05 M0",
+    "status": "PASS"
+  },
+  {
+    "check": "同期群独立核对 2011-05 M1",
+    "status": "PASS"
+  },
+  {
+    "check": "同期群独立核对 2011-05 M2",
+    "status": "PASS"
+  },
+  {
+    "check": "同期群独立核对 2011-05 M3",
+    "status": "PASS"
+  },
+  {
+    "check": "同期群独立核对 2011-05 M4",
+    "status": "PASS"
+  },
+  {
+    "check": "同期群独立核对 2011-05 M5",
+    "status": "PASS"
+  },
+  {
+    "check": "同期群独立核对 2011-05 M6",
+    "status": "PASS"
+  },
+  {
+    "check": "同期群独立核对 2011-06 M0",
+    "status": "PASS"
+  },
+  {
+    "check": "同期群独立核对 2011-06 M1",
+    "status": "PASS"
+  },
+  {
+    "check": "同期群独立核对 2011-06 M2",
+    "status": "PASS"
+  },
+  {
+    "check": "同期群独立核对 2011-06 M3",
+    "status": "PASS"
+  },
+  {
+    "check": "同期群独立核对 2011-06 M4",
+    "status": "PASS"
+  },
+  {
+    "check": "同期群独立核对 2011-06 M5",
+    "status": "PASS"
+  },
+  {
+    "check": "同期群独立核对 2011-07 M0",
+    "status": "PASS"
+  },
+  {
+    "check": "同期群独立核对 2011-07 M1",
+    "status": "PASS"
+  },
+  {
+    "check": "同期群独立核对 2011-07 M2",
+    "status": "PASS"
+  },
+  {
+    "check": "同期群独立核对 2011-07 M3",
+    "status": "PASS"
+  },
+  {
+    "check": "同期群独立核对 2011-07 M4",
+    "status": "PASS"
+  },
+  {
+    "check": "同期群独立核对 2011-08 M0",
+    "status": "PASS"
+  },
+  {
+    "check": "同期群独立核对 2011-08 M1",
+    "status": "PASS"
+  },
+  {
+    "check": "同期群独立核对 2011-08 M2",
+    "status": "PASS"
+  },
+  {
+    "check": "同期群独立核对 2011-08 M3",
+    "status": "PASS"
+  },
+  {
+    "check": "同期群独立核对 2011-09 M0",
+    "status": "PASS"
+  },
+  {
+    "check": "同期群独立核对 2011-09 M1",
+    "status": "PASS"
+  },
+  {
+    "check": "同期群独立核对 2011-09 M2",
+    "status": "PASS"
+  },
+  {
+    "check": "同期群独立核对 2011-10 M0",
+    "status": "PASS"
+  },
+  {
+    "check": "同期群独立核对 2011-10 M1",
+    "status": "PASS"
+  },
+  {
+    "check": "同期群独立核对 2011-11 M0",
+    "status": "PASS"
+  },
+  {
+    "check": "RFM人数等于可识别购买客户数",
+    "status": "PASS"
+  },
+  {
+    "check": "客户分层互斥且完整",
+    "status": "PASS"
+  },
+  {
+    "check": "RFM频次逐客户独立核验",
+    "status": "PASS"
+  }
+]

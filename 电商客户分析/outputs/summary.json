@@ -1,0 +1,16 @@
+{
+  "orders": 19960,
+  "customers": 4338,
+  "gross_gbp": 10642110.8,
+  "known_customer_gross_gbp": 8887208.89,
+  "repeat_customer_share": 0.6558321807284463,
+  "top20_customer_revenue_share": 0.7468374944430951,
+  "top20_customers": 868,
+  "weighted_m1_retention": 0.2365374937091092,
+  "m1_numerator": 940,
+  "m1_denominator": 3974,
+  "sale_rows": 524878,
+  "removed_positive_gbp": 24573.74,
+  "nonpositive_signed_customers": 21,
+  "targeting_manual_review_customers": 19
+}
